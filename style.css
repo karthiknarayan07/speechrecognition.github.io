@@ -1,0 +1,15 @@
+
+  body {
+    text-align: center;
+    background-color:gray;
+    font-weight: bold;
+}
+
+.submit-btn,.start-btn {
+    margin-top: 20px;
+    color:red;
+}
+
+h1{
+    color:blue;
+}
